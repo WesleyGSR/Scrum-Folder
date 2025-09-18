@@ -8,7 +8,7 @@
 	Artefatos
 # Estrutura HTML
 	Titulo - Scrum
-	Sections{
+	Sections{ class, ou uma id para ficar mais organizado
  		Subtitulo
 		paragrafo/elementos
 		Lista{} *Não necessariamente
