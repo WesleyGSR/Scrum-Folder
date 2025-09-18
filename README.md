@@ -6,3 +6,11 @@
 	Imagens
 	Explicação das etapas/Eventos
 	Artefatos
+# Estrutura HTML
+Titulo - Scrum
+	Sections{
+ 		Subtitulo
+		paragrafo/elementos
+		Lista{} *Não necessariamente
+	}
+Footer
