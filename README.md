@@ -7,10 +7,10 @@
 	Explicação das etapas/Eventos
 	Artefatos
 # Estrutura HTML
-Titulo - Scrum
+	Titulo - Scrum
 	Sections{
  		Subtitulo
 		paragrafo/elementos
 		Lista{} *Não necessariamente
 	}
-Footer
+	Footer
